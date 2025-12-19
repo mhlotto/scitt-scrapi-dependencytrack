@@ -1,8 +1,8 @@
 # scitt-scrapi-dependencytrack
 
-This repo will contain end-to-end docs for SCITT and SCRAPI, including a
-reference Transparency Service flow and Dependency-Track verification and
-refresh demos [1].
+This repo will host end-to-end docs for SCITT and SCRAPI, covering a
+reference Transparency Service flow plus Dependency-Track SBOM receipt
+verification and refresh demos.
 
 Planned scope:
 
